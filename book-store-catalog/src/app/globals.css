@@ -219,6 +219,8 @@
   align-items: center;
 }
 
+
+
 @layer base {
   * {
     @apply border-border;
